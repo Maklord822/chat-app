@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "src":"/main/resources/templates",
-      "dest":"/index.html"
-    }
-  ]
-}
